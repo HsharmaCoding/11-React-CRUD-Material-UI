@@ -1,0 +1,6 @@
+#  Create/Read/Update/Delete (CRUD) operations with Search.
+1. Implement Create/Read/Update/Delete (CRUD) operations with Search.
+2. Browser locale storage is using as a database. All the information are storing in the locale storage.
+3. Material UI them has been used for design and controls.
+	> https://v4.mui.com/
+# Please refer the attached information.txt and APP-DEMO file for more information.
